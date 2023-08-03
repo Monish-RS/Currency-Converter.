@@ -43,6 +43,7 @@ Here we use, raise value and try catch error:
 ![image](https://github.com/Monish-RS/Currency-Converter./assets/141045837/d3a13ab6-67d6-4a0c-9464-43f1edda82df)
 ### Main function
 This function ties everything together. It typically calls the input function to get user inputs, then calls the currency conversion function with the provided inputs, and finally displays the result using the display function.
+
 ![image](https://github.com/Monish-RS/Currency-Converter./assets/141045837/cba4888b-b550-49a4-b49c-d292d48e719c)
 
 
